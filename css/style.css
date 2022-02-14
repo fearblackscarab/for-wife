@@ -1,0 +1,46 @@
+*{box-sizing: border-box;}
+
+body{
+    background-image: url('/media/background.jpg');
+    background-size: 100%;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.love{
+margin: 0 auto;
+padding: 0;
+text-align: center;
+font-size: 150px;
+font-weight: 700;
+color: red;
+}
+
+.main{
+    position: relative;
+}
+
+.click{
+    position: absolute;
+    text-align: center;
+    top: 180px;
+    left: 45%;
+    font-size: 20px;
+}
+
+.heart{
+display: block;
+margin: 0 auto;
+padding: 0;
+text-align: center;
+width: 400px;
+height: auto;
+}
+
+.ask{
+margin: 0 auto;
+padding: 0;
+text-align: center;
+font-size: 150px;
+font-weight: 700;
+color: red;
+}
